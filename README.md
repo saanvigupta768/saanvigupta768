@@ -7,6 +7,10 @@
 #### 🛠️ Tech I work with
 Python, C++, C, Java
 
+#### 📌 Projects
+- **PYQ Study Counselor**: AI study counselor that ranks exam topics from past papers, assesses you, and generates practice papers and a study plan (Python, Groq API)
+- **TrustLedger**: team hackathon project, a tamper-evident access-control audit log; I built the backend API (auth, grant/revoke)
+
 #### 📫 Reach me
 saanvigupta768@gmail.com
 https://www.linkedin.com/in/saanvi-gupta-315a39382/
